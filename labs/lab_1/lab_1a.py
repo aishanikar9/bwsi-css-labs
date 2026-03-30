@@ -6,6 +6,9 @@ with your name. Then, save the code, add it to the staging area, and commit it t
 
 <<<<<<< HEAD
 This is to simulate a change made on a robot: robot_speed = 8 # m/s
+=======
+This is to simulate a change made on a robot: robot_speed = 3 # m/s
+>>>>>>> 6e10818ead408cb6367f423cf38e333a22a1bce6
 """
 
 def main():
